@@ -8,10 +8,5 @@ using System;
 
 class MainClass {
   public static void Main (string[] args) {
-    Pessoas CoisasPessoais = new Pessoas();
-    CoisasPessoais.Envelhecimento();
-    CoisasPessoais.AumentouPeso();
-    CoisasPessoais.DiminuirPeso();
-    CoisasPessoais.AumentarTamanho();
   }
 }
